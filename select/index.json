@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "上手く言えない",
+  "base_artist": "アンジュルム",
+  "createdAt": "2026-02-20T08:47:37.413319Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "上手く言えない",
+      "artist": "アンジュルム",
+      "has_synced": false,
+      "path": "select/pl_01_上手く言えない_アンジュルム.txt"
+    }
+  ]
+}
